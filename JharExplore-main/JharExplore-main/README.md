@@ -13,7 +13,7 @@
 ---
 
 ## ✨ Features
-
+### LIVE DEMO: https://jhar-explore.vercel.app/
 ### 🌍 Public
 - **Destination Discovery** — Browse 30+ destinations across 9 categories (waterfalls, heritage, forests, wildlife, tribal, religious, adventure, lakes, hills)
 - **Hotel Listings** — Search and filter hotels by district, price, star rating, and property type
