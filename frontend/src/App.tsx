@@ -49,7 +49,7 @@ function App() {
   return (
     <HelmetProvider>
       <QueryClientProvider client={queryClient}>
-        <Router>
+        <Router basename={import.meta.env.BASE_URL}>
           <ScrollToTop />
           <Suspense fallback={<LoadingSpinner fullScreen />}>
             <Routes>
